@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RicardinhoDev
-- 👀 I’m interested in javascript
+- 👀 I’m interested in java
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ricatdo.zanin@gmail.com
