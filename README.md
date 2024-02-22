@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RicardinhoDev
+- 👋 Hi, I’m @Sr_Zanin
 - 👀 I’m interested in java
 - 🌱 I’m currently learning git/github
 - 💞️ I’m looking to collaborate on ...
